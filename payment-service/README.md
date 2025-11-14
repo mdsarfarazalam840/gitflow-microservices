@@ -1,1 +1,3 @@
 # Payment Service
+updatePayment()
+processPayment()
