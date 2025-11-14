@@ -1,1 +1,2 @@
 # Auth Service
+login() implemented
